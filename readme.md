@@ -20,4 +20,4 @@
 
 **Time took to complete this project**: 4 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://todo-add-edit-delete-task.netlify.app/) of the project
